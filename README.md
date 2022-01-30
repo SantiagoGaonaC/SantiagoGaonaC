@@ -2,7 +2,7 @@
 
 * 👋 Hi, I’m Santiago Gaona. 
 * 👀 I’m interested in collaborate on something. 
-* 🌱 I’m currently learning Java focused on mc and software development.
+* 🌱 I’m currently learning Java and software development.
 * 💞️ I’m looking to collaborate on a project.
 * 📫 How to reach me discord vudumstead#2639
 
