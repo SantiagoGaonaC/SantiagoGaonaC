@@ -13,6 +13,7 @@
 Passionate about Software Engineering, proactive and committed to continuous learning, knowledgeable in management, development and analysis to meet business needs through the use and development of technology, adaptable to different work frameworks, with teamwork skills.
 adaptable to different frameworks, with teamwork and technical problem solving skills.
 and technical problem solving
+<p align="center">I am currently a Process Automation Analyst (RPA) at PWC</p>
 <hr>
 <br>
 
