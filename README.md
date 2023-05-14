@@ -48,7 +48,7 @@ and technical problem solving
  
  <p align="center">
 	<a href="https://github.com/SantiagoGaonaC">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGaonaC&langs_count=15&layout=compact&theme=dark" alt="bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGaonaC&langs_count=16&layout=compact&theme=dark" alt="bouaskaoun">
 	</a>
 	<br/>
 <br/>
