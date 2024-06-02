@@ -3,12 +3,7 @@
 <div align="center">
 	<h1 style="font-size: 36px;"><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px"> 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px">
 </div>
-
-<hr>
-Passionate about software engineering, proactive, and committed to continuous learning. Skilled in management, development, and analysis to meet business needs through technology. Adaptable to various work frameworks with strong teamwork and technical problem-solving abilities. Experienced in RPA and a FullStack application developer with expertise in .NET, TypeScript, Go, and Flutter, serving both web and mobile clients, as well as microservices. Accomplished in diverse professional and independent projects, incorporating various frameworks and DevOps practices, while excelling in client communication and teamwork.
-<hr>
-<br>
-
+		
 ## 🛠️ My Favorite Tools
 <br>
 <div style="display: flex; justify-content: center;">
@@ -37,6 +32,9 @@ Passionate about software engineering, proactive, and committed to continuous le
 ### 📩 Contact
 
 <p align="center">
+  <a href="https://www.santiagogaona.dev">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.santiagogaona.dev%2F&style=for-the-badge&logo=website&logoColor=white&link=https%3A%2F%2Fwww.santiagogaona.dev%2F"/>
+  </a>
   <a href="https://www.linkedin.com/in/santiago-gaona-carvajal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
