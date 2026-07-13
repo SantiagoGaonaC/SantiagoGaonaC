@@ -3,9 +3,9 @@
   <h1>Santiago Gaona Carvajal</h1>
   <h3>Cloud Architect · Software &amp; Systems Architecture · Cloud Platforms</h3>
   <p>
-    <a href="https://sgaonac.com">Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/santiago-gaona-carvajal/">LinkedIn</a> ·
-    <a href="mailto:sgaonacarvajal@gmail.com">Email</a>
+    <a href="https://sgaonac.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat&logo=safari&logoColor=2dd4bf" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/santiago-gaona-carvajal/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn" /></a>
+    <a href="mailto:sgaonacarvajal@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat&logo=gmail&logoColor=2dd4bf" alt="Email" /></a>
   </p>
 
 </div>
@@ -25,6 +25,14 @@ My background spans software engineering, distributed systems, infrastructure, a
 - **[CapyFile](https://github.com/hawks-atlanta)** — distributed, multi-platform file storage built with microservices, Kubernetes, Terraform, React, .NET, Go, and Flutter.
 
 ## Current Stack
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,ts,go,dotnet,python&amp;theme=dark&amp;perline=9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,ts,go,dotnet,python&amp;theme=light&amp;perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,ts,go,dotnet,python&amp;theme=light&amp;perline=9" alt="AWS, Azure, Terraform, Kubernetes, Docker, TypeScript, Go, .NET, and Python" />
+  </picture>
+</div>
 
 | Domain | Technologies |
 | --- | --- |
